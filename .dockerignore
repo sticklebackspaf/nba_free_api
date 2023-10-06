@@ -1,0 +1,6 @@
+#files to ignore in docker image
+**/*.pyc
+venv_*/
+**/*.sqlite
+**/*.DS_Store
+**/*.log
